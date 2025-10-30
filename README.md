@@ -1,2 +1,7 @@
-# daily-commit-051
-My fifty-first daily GitHub activity repository
+def sum_numbers(numbers):
+    return sum(numbers)
+
+if __name__ == "__main__":
+    nums = [5, 10, 15, 20]
+    print(f"Sum of numbers: {sum_numbers(nums)}")
+
