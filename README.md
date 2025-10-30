@@ -1,5 +1,5 @@
 def sum_numbers(numbers):
-    return sum(numbers)
+    return sum(number)
 
 if __name__ == "__main__":
     nums = [5, 10, 15, 20]
